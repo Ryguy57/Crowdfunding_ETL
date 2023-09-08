@@ -11,7 +11,7 @@ Contributors: Adam Gostinger & Ryan Himes
 - [Summary](#summary)
 
 ## About
-In this collaborative endeavor, we demonstrated our abilities to build an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform data. Using the transformed data, we exported four CSV files with valuable data. The CVS files helped us design an Entity-Relationship Diagram (ERD), establish a table schema, and successfully upload the CSV data into a Postgres database.
+In this collaborative endeavor, we demonstrated our abilities to build an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform data. Using the transformed data, we exported four CSV files with valuable data. The CSV files helped us design an Entity-Relationship Diagram (ERD), establish a table schema, and successfully upload the CSV data into a Postgres database.
 
 
 ## Getting Started
