@@ -23,7 +23,7 @@ In this collaborative endeavor, we demonstrated our abilities to build an ETL pi
    - Created a category DataFrame with "category_id" and "category" columns.
    - Created a subcategory DataFrame with "subcategory_id" and "subcategory" columns.
 
-<img src="Resources/category_DataFrame.png" width="250" height="400">
+<img src="Images/category_DataFrame.png" width="250" height="400">
 
 2. **Created the Campaign DataFrame**
    - Renamed and dropped unnecessary columns.
