@@ -44,7 +44,7 @@ CREATE TABLE Campaign (
 );
 
 -- Select all the data from the tables to view
-select * from contacts
-select * from category
-select * from subcategory
-select * from campaign
+select * from contacts;
+select * from category;
+select * from subcategory;
+select * from campaign;
