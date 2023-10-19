@@ -8,16 +8,8 @@
 - [Database Tables](#database-tables)
 
 ## About
-<<<<<<< HEAD
-In this project, I implemented an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and PostgreSQL. The goal was to import data from an Excel file, transform it to CSV files, and load the CSV files into a PostgreSQL database.
-=======
 In this collaborative endeavor, we demonstrated our abilities to build an ETL pipeline using Python, Pandas, PyMongo and Python dictionary methods to extract and transform data. Using the transformed data, we exported four CSV files with valuable data. The CSV files helped us design an Entity-Relationship Diagram (ERD), establish a table schema, and successfully upload the CSV data into a Postgres database.
 
-
-## Getting Started
-Jupyter Notebook, PGAdmin were required to run this project.
-Languages Used: Python (Pandas and PyMongo libraries), SQL
->>>>>>> 28ae4e45c6c9a5969f98e9c9ab333c2b4bf84350
 
 ## Contributing
 - <a href="https://www.github.com/agostinger/" target="_blank">Adam Gostinger</a>
